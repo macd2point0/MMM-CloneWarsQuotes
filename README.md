@@ -1,8 +1,8 @@
-# Module: MMM Clone Wars Quotes
+# Module: MMM-CloneWarsQuotes
 The `MMM-CloneWarsQuotes` module displays a random intro quote from _The Clone Wars_ television series, seasons 1-6.
 
 ## Screenshots
-- MMM Clone Wars Quotes Screenshot
+- MMM-CloneWarsQuotes Screenshot
 ![Quotes Screenshot](screenshot.png)
 
 ## Using the module
