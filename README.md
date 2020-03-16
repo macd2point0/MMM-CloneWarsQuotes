@@ -13,7 +13,8 @@ modules: [
 	{
 		module: "MMM-CloneWarsQuotes",
 		position: "middle_center",	// This can be any of the regions.
-						// Best results in the middle regions: upper_third, middle_center, or lower_third
+						// Best results in the middle regions:
+						// upper_third, middle_center, or lower_third
 		config: {
 			// The config property is optional.
 			// If no config is set, the default quotes are shown randomly.
