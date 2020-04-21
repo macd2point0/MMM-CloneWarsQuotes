@@ -13,26 +13,6 @@ modules: [
 	{
 		module: "MMM-CloneWarsQuotes",
 		position: "middle_center",	// This can be any of the regions.
-						// Best results in the middle regions:
-						// upper_third, middle_center, or lower_third
-		config: {
-			// The config property is optional.
-			// If no config is set, the default quotes are shown randomly.
-			// See 'Configuration options' for more inf# Module: MMM-CloneWarsQuotes
-The `MMM-CloneWarsQuotes` module displays a random intro quote from _The Clone Wars_ television series, seasons 1-6.
-
-## Screenshots
-- MMM-CloneWarsQuotes Screenshot
-![Quotes Screenshot](screenshot.png)
-
-## Using the module
-
-To use this module, add it to the modules array in the `config/config.js` file:
-````javascript
-modules: [
-	{
-		module: "MMM-CloneWarsQuotes",
-		position: "middle_center",	// This can be any of the regions.
 						// Best results in the middle regions: upper_third, middle_center, or lower_third
 		config: {
 			// The config property is optional.
