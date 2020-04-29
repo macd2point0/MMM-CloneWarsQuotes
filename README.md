@@ -5,9 +5,9 @@ The `MMM-CloneWarsQuotes` is a MagicMirror² module that displays a random intro
 - MMM-CloneWarsQuotes Screenshot
 ![Quotes Screenshot](screenshot.png)
 
-## Using the module
+## Using the module (default settings)
 
-To use this module, add it to the modules array in the `config/config.js` file in the ~/MagicMirror directory
+To use this module, add it to the modules array in the `config/config.js` file in the `~/MagicMirror` directory
 ````javascript
 modules: [
 	 {
@@ -17,7 +17,7 @@ modules: [
 	 }
 ]
 ````
-The `MMM-CloneWarsQuotes` module displays a random intro quote from _The Clone Wars_ television series, seasons 1-7.
+The `MMM-CloneWarsQuotes` is a MagicMirror² module that displays a random intro quote (Jedi proverb) from _The Clone Wars_ television series, seasons 1-7.
 
 ## Screenshots
 - MMM-CloneWarsQuotes Screenshot
