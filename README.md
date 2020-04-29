@@ -7,7 +7,7 @@ The `MMM-CloneWarsQuotes` is a MagicMirror² module that displays a random intro
 
 ## Using the module
 
-To use this module, add it to the modules array in the `config/config.js` file:
+To use this module, add it to the modules array in the `config/config.js` file in the ~/MagicMirror directory
 ````javascript
 modules: [
 	 {
